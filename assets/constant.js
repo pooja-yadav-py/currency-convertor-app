@@ -1,0 +1,72 @@
+export const currencyData = [
+  {
+    country: "United States",
+    currency: "US Dollar",
+    value: 0.012, // 1 INR ≈ 0.012 USD
+    symbol: "$",
+    flag: "🇺🇸",
+  },
+  {
+    country: "Russia",
+    currency: "Russian Ruble",
+    value: 1.05,
+    symbol: "₽",
+    flag: "🇷🇺",
+  },
+  {
+    country: "Japan",
+    currency: "Japanese Yen",
+    value: 1.66,
+    symbol: "¥",
+    flag: "🇯🇵",
+  },
+  {
+    country: "United Kingdom",
+    currency: "British Pound",
+    value: 0.0095,
+    symbol: "£",
+    flag: "🇬🇧",
+  },
+  {
+    country: "European Union",
+    currency: "Euro",
+    value: 0.011,
+    symbol: "€",
+    flag: "🇪🇺",
+  },
+  {
+    country: "Australia",
+    currency: "Australian Dollar",
+    value: 0.018,
+    symbol: "A$",
+    flag: "🇦🇺",
+  },
+  {
+    country: "Canada",
+    currency: "Canadian Dollar",
+    value: 0.016,
+    symbol: "C$",
+    flag: "🇨🇦",
+  },
+  {
+    country: "China",
+    currency: "Chinese Yuan",
+    value: 0.087,
+    symbol: "¥",
+    flag: "🇨🇳",
+  },
+  {
+    country: "UAE",
+    currency: "UAE Dirham",
+    value: 0.044,
+    symbol: "د.إ",
+    flag: "🇦🇪",
+  },
+  {
+    country: "Saudi Arabia",
+    currency: "Saudi Riyal",
+    value: 0.045,
+    symbol: "﷼",
+    flag: "🇸🇦",
+  },
+];
